@@ -1,38 +1,47 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Next.js Tutorial Application
+
+This repository contains a Next.js application that I am building by following a brand new freeCodeCamp YouTube tutorial. The tutorial covers the basics of setting up a Next.js project and provides step-by-step instructions for implementing various features and functionalities.
+
+## Technologies Used
+
+- Next.js
+- React.js
+- JavaScript
+- HTML/CSS
+
+## Features Implemented
+
+- Server-side rendering
+- Dynamic Routing
+- API routes
+- State Management
 
 ## Getting Started
 
-First, run the development server:
+To run this application locally, follow these steps:
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+1.  Clone this repository to your local machine
+    `git clone https://github.com/akpamaboris/Next.js-Training-2023-with-Freecodecamp`
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+2.  Install the dependencies
+    `npm install`
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+3.  Start the development server
+    `npm run dev`
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+The application will be running on **_http://localhost:3000_**.
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+## Additional Resources
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+- [Next.js documentation](https://nextjs.org/docs)
+- [freeCodeCamp tutorial](https://www.youtube.com/watch?v=YOUR_TUTORIAL_LINK)
 
-## Learn More
+Please let me know if you have any questions or feedback.
 
-To learn more about Next.js, take a look at the following resources:
+## Zeliwipin
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- [Zeliwipin](https://github.com/YOUR_USERNAME)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## License
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+This project is licensed under the MIT License - see the [LICENSE.md](https://chat.openai.com/LICENSE.md) file for details.
